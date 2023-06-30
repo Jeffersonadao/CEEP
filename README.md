@@ -1,4 +1,5 @@
 Projeto realizado no programa ONE da Oracle em parceria com a alura.
+
 Faz parte da formação front-end e o tema do Curso é: JavaScript na web : Manipule o Dom com Javascript.
 Onde pude aprender o que é o DOM e como percorrer a arvore de nós do DOM;
 
